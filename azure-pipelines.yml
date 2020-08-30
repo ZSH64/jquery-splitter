@@ -6,7 +6,7 @@
 strategy:
   matrix:
     microsofthosted:
-      poolName: default
+      poolName:
       vmImage: ubuntu-latest
 
     selfhosted:
