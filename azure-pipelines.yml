@@ -6,7 +6,6 @@
 strategy:
   matrix:
     microsofthosted:
-      poolName: Azure Pipelines
       vmImage: ubuntu-latest
 
     selfhosted:
